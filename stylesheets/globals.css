@@ -17,9 +17,9 @@
 	
 	* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; *behavior: url(/boxsizing.htc); }
 	
-	html { font-size: 62.5%; }
+	html { font: 62.5%/1.5em "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, "Lucida Grande", sans-serif;  }
 	
-	body { background: #fff; font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, "Lucida Grande", sans-serif; font-size: 13px; font-size: 1.3rem; line-height: 18px; color: #555; position: relative; -webkit-font-smoothing: antialiased; }
+	body { color: #555; position: relative; -webkit-font-smoothing: antialiased; }
 	
 
 
